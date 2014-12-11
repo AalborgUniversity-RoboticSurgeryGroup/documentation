@@ -1,0 +1,3 @@
+- git: {local-name: davinci_driver, uri: 'https://github.com/AalborgUniversity-RoboticSurgeryGroup/davinci_driver.git'}
+- git: {local-name: davinci_description, uri: 'https://github.com/AalborgUniversity-RoboticSurgeryGroup/davinci_description.git'}
+- git: {local-name: davinci_bringup, uri: 'https://github.com/AalborgUniversity-RoboticSurgeryGroup/davinci_bringup.git'}
